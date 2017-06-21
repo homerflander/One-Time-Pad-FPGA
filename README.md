@@ -16,6 +16,7 @@ Device Details:<br />
 Speed Grade=-1 <br />
  Part=xc7a100tcsg324-1 <br />
 
+--------------------Demonstration--------------------<br />
 Top Level Architecture/Psuedocode Sketch: <br />
 ![Top](/demo/12.png)
 
